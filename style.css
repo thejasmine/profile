@@ -91,6 +91,25 @@ ul {
   .card {
     width: 200px;
   }
+  h1 {
+    font-size: 24px
+  }
+
+  h2 {
+    font-size: 16px
+  }
+
+  p{
+    font-size: 12px
+  }
+
+  .brown-btn{
+    padding:5px 10px;
+  }
+
+  a {
+    font-size: 12px
+  }
 }
 
 
